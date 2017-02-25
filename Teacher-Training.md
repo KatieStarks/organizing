@@ -7,9 +7,7 @@ Teacher training generally covers two areas:
 
 ## Being a Good Teacher
 
-We currently rely on the [RailsBridge teacher training](http://docs.railsbridge.org/workshop/more_teacher_training) slide deck.
-
-_We'd love a volunteer to adapt this into something specific to ClojureBridge - hint, hint!_
+See [teacher training](http://clojurebridge.github.io/curriculum/teacher-training.html)
 
 We want the install fest and the workshop to be a fun, friendly, welcoming environment for learning! Encourage questions, be supportive - don't criticize, don't take over their computer, don't use jargon. Keep an eye our for students who are struggling and help them - encourage them.
 
