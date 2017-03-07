@@ -14,7 +14,7 @@ There are different ways you can contribute. Maybe you'd like to...
 
 ###...organize!
 
-You want to organize a workshop in your area? Great! Let’s get started! For a [minimal viable workshop](https://github.com/ClojureBridge/organizing/blob/master/Minimum-Viable-Workshop.md), you need to find: 
+You want to organize a workshop in your area? Great! Let’s get started! For a [minimal viable workshop](https://github.com/ClojureBridge/organizing/blob/master/Minimum-Viable-Workshop.md), you need to find:
 
 - **A venue:** A safe and quiet space for learners to take their first steps in Clojure. An office leisure space or a co-working space might work.
 - **A date:** ClojureBridge is a two-day workshop, which means you need to find a date for the install party/installfest (e.g. Friday evening from 5 PM - 8 PM) and a date for the workshop day (e.g. Saturday 9 AM - 6 PM).
@@ -37,7 +37,7 @@ As a coach, you (and perhaps a co-coach) will teach a small group of attendees s
 
 ###...be a teaching assistant!
 
-As a teaching assistant, or a “floating coach,” you also help attendees learn Clojure. You are not assigned to a fixed group; instead, you can float around and help when questions arise. Being a teaching assistant might be your thing if you just started learning Clojure yourself. 
+As a teaching assistant, or a “floating coach,” you also help attendees learn Clojure. You are not assigned to a fixed group; instead, you can float around and help when questions arise. Being a teaching assistant might be your thing if you just started learning Clojure yourself.
 
 ###...sponsor or donate!
 
@@ -51,7 +51,7 @@ Our curriculum can be found in our [curriculum repository](https://github.com/Cl
 
 ###...spread the word!
 
-Last but not least, you can help ClojureBridge by spreading the word! Introduce ClojureBridge at your local meetup groups, especially events for women. Retweet, post, and share whatever you find about ClojureBridge. Tell the women YOU know and love about it and encourage them to attend! 
+Last but not least, you can help ClojureBridge by spreading the word! Introduce ClojureBridge at your local meetup groups, especially events for women. Retweet, post, and share whatever you find about ClojureBridge. Tell the women YOU know and love about it and encourage them to attend!
 
 ----
 
